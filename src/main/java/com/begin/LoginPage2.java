@@ -1,10 +1,9 @@
 package com.begin;
 
-public class HomePagebranch {
+public class LoginPage2 {
 
 	public static void main(String[] args) {
-		
-		//Modified
+		// TODO Auto-generated method stub
 
 	}
 
